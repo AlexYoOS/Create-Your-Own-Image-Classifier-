@@ -1,5 +1,5 @@
 # Create Your Own Image Classifier
-'
+
 ## _Showcase of the core workload of a supervised learning task in Computer Vision_
 
 ![Add flower image here](image_07519.jpg)
